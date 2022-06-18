@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **tkinter, GUI**
 
-- 👨‍💻 All of my projects are available [here][https://portfolio.alfarsi.repl.co] 
+- 👨‍💻 All of my projects are available [here](https://portfolio.alfarsi.repl.co)
 
 - 💬 Ask me about **CSS**
 
