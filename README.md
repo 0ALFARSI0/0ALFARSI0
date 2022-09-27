@@ -16,6 +16,8 @@
 - ⚡ Fun fact **coding has over 700 languages**
 
 <h3 align="left">Connect with me:</h3>
+[Buy me a coffe](https://www.buymeacoffee.com/alfarsi)
+
 <p align="left">
 </p>
 
