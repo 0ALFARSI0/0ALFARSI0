@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0alfarsi0" alt="0alfarsi0" /></a> </p>
 
-- 🔭 I’m currently working on Nidem - unavailable yet
+- 🔭 I’m currently working on Power of Nations - unavailable yet
 
-- 🌱 I’m currently learning **tkinter, GUI**
+- 🌱 I’m currently learning **java , IO streams**
 
-- 👨‍💻 All of my projects are available [here](https://portfolio.alfarsi.repl.co)
+- 👨‍💻 All of my projects are available here
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **JAVA and Python **
 
 - ⚡ Fun fact **coding has over 700 languages**
 
